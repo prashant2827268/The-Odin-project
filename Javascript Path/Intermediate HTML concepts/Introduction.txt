@@ -1,0 +1,6 @@
+In this introduction part I learned about the|
+-> HTML element reference
+   -> In this I go through all the html tags. In the odin introduction  part it was mention not to memorize all, but to give a view.
+-> CSS Cheat Sheet
+   -> In this, I learned how various styles impact the html tags. I visualize margin, padding, border.
+   
