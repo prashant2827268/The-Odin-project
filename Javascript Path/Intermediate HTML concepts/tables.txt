@@ -1,3 +1,6 @@
 Today i learned about tables.
 Elements used in tables like table, td, th, tr etc
 Captions in table
+
+Today also I am learning deep about projects
+How layout works
