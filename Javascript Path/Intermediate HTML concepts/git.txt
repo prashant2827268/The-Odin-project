@@ -1,0 +1,3 @@
+I revised the git basics again.
+All the commands which have been used by developers daily
+How git works, why git, Distributed version control over centralized version control
