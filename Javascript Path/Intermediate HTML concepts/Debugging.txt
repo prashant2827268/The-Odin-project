@@ -1,0 +1,6 @@
+Today, i leaned about debugging out of context.
+I learned how to use the vs code debugger.
+When i encounters some problem in my code I use console.log() many times, and it reduces the efficiency.
+So i searched the youtube and find out some cool visoes which taught me about how to use vs code debugger for nodejs
+I learned two type of methods. 1. launch.json method  2. Javascript debugger
+I encountered various issues, like the debugger sometime entering the node internals, so i asked chatgpt why it is moving in those parts, after that i found the solution and it was like add node internals to your launch file
