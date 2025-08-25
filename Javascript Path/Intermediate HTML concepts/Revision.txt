@@ -1,0 +1,3 @@
+Today I revised the javascript concepts
+I revised promises, async await, functions, hoisting etc.
+I revised Objects and functions(with constructor function ).
