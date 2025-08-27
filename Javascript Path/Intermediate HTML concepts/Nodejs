@@ -3,3 +3,9 @@ The evnt driven architecture of node js
 File system in node js
 EventEmitter class in node js
 Http server in node js
+
+
+Today i learned about node routing
+How to serve the content of a file in node js
+Node js does not have any way to serve static files
+So I use node's file system module to serve the content of static file
